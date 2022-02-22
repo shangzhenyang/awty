@@ -5,7 +5,10 @@
     <string name="interval_minutes">Interval (Minutes)</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
+    <string name="error">Error</string>
     <string name="message_empty">The message cannot be empty.</string>
     <string name="invalid_phone_number">Invalid phone number. Must be 10 digits.</string>
     <string name="interval_must_greater_zero">The interval must be greater than 0.</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="cannot_work_without_sms_permission">This app cannot work without the permission to send SMS.</string>
 </resources>
